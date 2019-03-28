@@ -1,0 +1,3 @@
+django_plotly_dash
+tensorflow-gpu
+numpy
