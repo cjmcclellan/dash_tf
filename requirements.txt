@@ -1,3 +1,7 @@
 django_plotly_dash
 tensorflow-gpu
 numpy
+dash==0.38.0
+dash-core-components==0.43.1
+dash-html-components==0.13.1
+dash-renderer==0.19.0
